@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+config1.json
+*_cache*.csv
+.DS_Store
+~$*
