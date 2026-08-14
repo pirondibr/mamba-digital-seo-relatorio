@@ -19,6 +19,7 @@ Abra **[index.html](./index.html)** (ou a URL do GitHub Pages deste repositório
 | Análise | Top5 SERP + Mamba + densidade `site:` |
 | Análise Concorrência | `"kw" -instagram -youtube -tiktok` |
 | Novos termos | Gaps vs Keywords + Sitemap |
+| Pautas conteúdo | Termos selecionados em Novos termos para virar conteúdo |
 | Análise Blog | Distribuição de páginas do blog |
 | Sitemap URLs | Inventário do sitemap |
 
